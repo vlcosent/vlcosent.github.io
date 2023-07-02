@@ -31,3 +31,8 @@ One of the paramount benefits of crime prediction lies in its ability to proacti
 
 Moreover, crime prediction empowers law enforcement agencies to adopt preventive measures. By understanding the dynamics of different crime types, such as burglaries, assaults, or drug-related offenses, authorities can implement proactive strategies tailored to specific crime patterns. Predictive models enable agencies to identify hotspots, crime-prone areas, and vulnerable populations, allowing for the deployment of preventive measures, community outreach programs, and focused law enforcement efforts.
 
+
+## Project 5 - Machine Learning to predict GDP
+Economic Forecasting: GDP is a fundamental indicator of economic activity and performance. By employing machine learning algorithms on historical data, economists and policymakers can gain insights into the future trajectory of GDP. Accurate GDP predictions enable stakeholders to make informed decisions, implement appropriate policies, and anticipate potential economic trends.
+
+Policy Formulation: Machine learning-based GDP prediction can guide policymakers in formulating effective economic policies. Accurate forecasts help governments and central banks identify areas of concern, such as potential recessions or inflationary pressures, and take preemptive actions to stabilize the economy. This allows policymakers to develop timely and targeted interventions to support economic growth, job creation, and sustainable development.
