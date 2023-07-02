@@ -60,3 +60,20 @@ Machine learning for stock prediction holds significant importance in the world 
 Data-Driven Decision Making: Machine learning models can analyze vast amounts of historical stock data, financial indicators, market trends, and news sentiment to generate insights and predictions. This helps investors, traders, and financial professionals make more informed and data-driven decisions regarding buying, selling, or holding stocks. By leveraging machine learning, market participants can enhance their decision-making process and potentially achieve better investment outcomes.
 
 Risk Management: Machine learning models can assess and predict stock price volatility, identify market risks, and help manage investment portfolios. By analyzing historical data and market indicators, machine learning algorithms can assist in identifying potential risks and guiding risk management strategies. This enables investors to optimize their portfolio allocation, diversify investments, and mitigate potential losses.
+
+
+## Project 9 - AI System to predict Chance of Plane Crash vs Car Crash
+The importance of an AI system to predict the chance of a plane crash versus a car crash lies in its potential to enhance safety measures, inform decision-making, and allocate resources effectively. Here are several key reasons why such a system is valuable:
+
+Risk Assessment and Mitigation: AI-powered prediction systems can analyze a vast amount of historical data, including aviation and traffic accident records, weather conditions, maintenance records, and pilot/driver behavior, to assess the risks associated with plane and car crashes. By identifying patterns and risk factors, the system can help identify areas of concern and guide the implementation of preventive measures. This includes improving safety protocols, enhancing training programs, and implementing stricter regulations to mitigate risks and reduce the likelihood of accidents.
+
+Resource Allocation: Accurate predictions of the chance of plane crashes versus car crashes can assist in allocating resources effectively. By understanding the relative risk levels, authorities and organizations can allocate appropriate resources, such as funding, personnel, and technology, to areas that require greater attention. This enables a targeted approach to safety measures, where resources are focused on areas with higher risks, ensuring a more efficient use of limited resources for accident prevention and response.
+
+
+## Project 10 - AI System to predict Patient Not Showing Up
+An AI system to predict whether a patient will show up for a medical appointment holds significant importance in healthcare management and resource optimization. Here are several key reasons why such a system is valuable:
+
+Resource Allocation: Predicting whether a patient is likely to show up for an appointment helps healthcare providers allocate their resources more efficiently. By identifying patients who are at a higher risk of not showing up, providers can adjust their scheduling, optimize staff allocation, and minimize wasted resources. This ensures that healthcare facilities operate at maximum capacity, reducing waiting times and improving overall service quality.
+
+Financial Impact: Patient no-shows can have a significant financial impact on healthcare organizations. Unused appointment slots result in lost revenue and potential disruptions in the care delivery process. An AI system that accurately predicts patient no-shows enables providers to proactively manage their schedules, offer vacant slots to other patients, or adjust staffing levels accordingly. This helps mitigate financial losses and ensures optimal utilization of resources.
+
