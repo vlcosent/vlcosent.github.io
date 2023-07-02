@@ -7,3 +7,4 @@ One notable aspect of Victor's GitHub page is the impact his projects have had o
 Overall, Victor's data science GitHub page serves as an inspiring showcase of his technical abilities, creativity, and dedication to pushing the boundaries of data science. It's a testament to his contributions to the field and an invaluable resource for those seeking insights and inspiration in the realm of data science.
 
 ## Project 1 - Data retention system 
+This projects helps you 
