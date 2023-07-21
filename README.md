@@ -1,4 +1,4 @@
-<h1>Hello! My name is Victor, welcome to my Data Science website <br/><a href="">Data Scientist</a>, <a href="">Data Analyst</a><a href=""></a></h1>
+<h1>Hello, my name is Victor. Welcome to my Data Science website! <br/><a href="">Data Scientist</a>, <a href="">Data Analyst</a><a href=""></a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
