@@ -1,7 +1,7 @@
 <h1>Hello, my name is Victor. Welcome to my Data Science website! <br/><a href="">Data Scientist</a>, <a href="">Data Analyst</a><a href=""></a></h1>
 
-<h2>👨‍💻 About me:</h2>
-<h3>Victor's data science GitHub page is a treasure trove of impressive projects and valuable contributions to the field. Upon visiting his page, you'll find a collection of well-organized repositories showcasing his expertise in data science and machine learning.
+<h2>👨‍💻 Just a bit about me:</h2>
+<h3> This is how I hope someone will describe my projects found on this site: Victor's data science GitHub page is a treasure trove of impressive projects and valuable contributions to the field. Upon visiting his page, you'll find a collection of well-organized repositories showcasing his expertise in data science and machine learning.
 
 One notable aspect of Victor's GitHub page is the impact his projects have had on clients. Through innovative solutions and cutting-edge techniques, he has helped clients save substantial amounts of time. By automating manual processes, optimizing resource allocation, or developing predictive models, Victor's work has streamlined operations and empowered data-driven decision-making.
 
