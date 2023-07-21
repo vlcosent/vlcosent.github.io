@@ -8,7 +8,7 @@
 
 
 
-# Victor Cosentini
+
 #### About
 Victor's data science GitHub page is a treasure trove of impressive projects and valuable contributions to the field. Upon visiting his page, you'll find a collection of well-organized repositories showcasing his expertise in data science and machine learning.
 
