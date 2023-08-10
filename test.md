@@ -1,7 +1,7 @@
-<div class="Hello">
-  <h1>About Me Page</h1>
-  <p>Victor's data science GitHub page has impressive projects and valuable contributions insight. You'll find a collection of well-organized repositories showcasing data science and machine learning techniques.</p>
-  <p></p>
+<div class="about-section">
+  <h1>About Us Page</h1>
+  <p>Some text about who we are and what we do.</p>
+  <p>Resize the browser window to see that this page is responsive by the way.</p>
 </div>
 
 <h2 style="text-align:center">Our Team</h2>
