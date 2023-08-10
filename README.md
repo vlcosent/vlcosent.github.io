@@ -1,7 +1,13 @@
 <h1>Hello, my name is Victor. Welcome to my Portfolio! <br/><a href="https://github.com/vlcosent/vlcosent.github.io">Data Scientist</a>, <a href="https://github.com/vlcosent/vlcosent.github.io">Data Analyst</a><a href=""></a></h1>
 
-<h2><b>👨‍💻 About me:<i>After living in CA for 21 years I decided to attend College in the South, which was a nervracking decision. This desicion ended up being the best decision I could have ever made. After establishing my self inside the world of quality engineering, i releaized the frontier would be be Data Science. At the moment I was working inside the world of Missile Defense and constantly exposed to machine learning applications. Naturally, I immediatly signedd up to receive additional education to become better at developing machine learning programs. <i>
-<h3> " </h3>
+<h2><b>👨‍💻 About me:<i> After living in CA for 21 years I decided to attend College in the South, which was a nerve-racking decision. This decision ended up being the best decision I could have ever made. After establishing myself inside the world of quality engineering, I realized the frontier would be Data Science. Now I was working inside the world of Missile Defense and constantly exposed to machine learning applications. Naturally, I immediately signed up to receive additional education to become better at developing machine learning programs. I continually apply my ears of applying advanced machine learning tactics to create the most accurate solution for each need.
+
+
+
+
+</h3> <i>
+ </h3>
+</h3>
 
 
 
