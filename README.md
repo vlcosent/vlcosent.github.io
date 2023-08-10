@@ -1,6 +1,6 @@
 <h1>Hello, my name is Victor. Welcome to my Portfolio! <br/><a href="https://github.com/vlcosent/vlcosent.github.io">Data Scientist</a>, <a href="https://github.com/vlcosent/vlcosent.github.io">Data Analyst</a><a href=""></a></h1>
 
-<h2><b>👨‍💻 About me: <strong> I grew up in CA and when it came time for me on where to attend college
+<h2><b>👨‍💻 About me: <strong> I grew up in CA and when it came time for me on where to attend college <strong>
 <h3> " </h3>
 
 
