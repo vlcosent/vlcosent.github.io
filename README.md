@@ -6,12 +6,6 @@
 
 
 
-</h3>
-
-
-
-
-
 
 
 ## Project 1 - Data retention system for Airport Location
